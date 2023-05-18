@@ -30,7 +30,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 ## Installation
-server.js + open integrated terminal + run 'npm i'
+server.js + open integrated terminal + run 'npm start'
 
 
 ## Screenshot
